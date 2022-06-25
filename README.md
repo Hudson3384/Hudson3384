@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/hudson3384/hudson3384/main/hudson%20arruda.gif" width=100%>
 
 
-**Hi, I'm Hudson! **
+**Hi, I'm Hudson!**
 
 * * *
 
