@@ -6,7 +6,7 @@
 * * *
 
 **About me:**
-- 💻 I am a web development student
+- 💻 I am a web developer
 - ⚛️ JavaScript | NodeJS | React
 - 🚀 I'm a software engineering student at AMPLI, a subsidiary of [KROTON](https://github.com/Kroton-Educacional)
 - 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/hudson-arruda-ribeiro)
