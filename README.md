@@ -28,6 +28,6 @@
 <br>
 
 
-**'#NEVERSTOPLEANING by [Rocket](https://github.com/Rocketseat)'**
+**'#NEVERSTOPLEANING by [Rocket](https://github.com/Rocketseat).'**
   
 
