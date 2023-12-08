@@ -6,11 +6,11 @@
 * * *
 
 **About me:**
-- 💻 I am a web developer
-- ⚛️ JavaScript | NodeJS | React
-- 🚀 I'm a software engineering student at AMPLI, a subsidiary of [KROTON](https://github.com/Kroton-Educacional)
+- 💻 I am a Software Engineer
+- ⚛️ TypeScript | NodeJS | React | CI/CD  
+- 🚀 I'm a science computer student at Estácio
 - 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/hudson-arruda-ribeiro)
-- 🔥 I participated in two [DIO](https://www.dio.me) technology bootcamps and [RockeatSeat](https://www.rocketseat.com.br/),[Alura](https://www.alura.com.br/) React Immersions
+- 🔥 My LeetCode : [here](https://leetcode.com/Hudson3384/)
 
 
 
