@@ -11,7 +11,7 @@
 **About Me**  
 - 💻 Full-Stack Developer specializing in cloud and mobile (React Native, Kotlin, Swift) and web development (React, Laravel, TypeScript).  
 - 🚀 Proactive, focused on automation, DevOps practices, and innovative optimization.  
-- 📚 Currently studying Computer Science at Estácio (Jan 2023 - Dec 2026).  
+- 📚 Computer Science at Estácio (Jan 2021 - Dec 2024).  
 - 🔗 Passionate about DevOps and Cloud technologies like Docker, Kubernetes, and AWS.  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hudson-arruda-ribeiro)  
 - 🔥 My LeetCode: [Hudson3384](https://leetcode.com/Hudson3384/)
@@ -41,7 +41,7 @@
 ---
 
 **A Little More About Me**  
-I’m currently responsible for leading front-end activities, migrating monolithic systems, and developing apps natively using Kotlin and Swift. I’ve recently been working on integrating CRM systems, handling markdown-based documentation, and setting up proxy services in Node.js. 🚀
+I’m currently responsible for leading front-end activities, migrating monolithic systems, and developing apps natively using Kotlin and Swift. I’ve recently been working on integrating CRM systems, handling markdown-based documentation, and setting up proxy services in Node.js and Laravel. 🚀
 
 **Favorite Tech**  
 - 🖥️ Full-Stack: React | Laravel | Node.js  
